@@ -8,7 +8,7 @@ Quant Research — Macro • Microstructure • Data
 - 90-day **Daily Market Research** project
 - Quant notebooks (yield curve PCA, volatility clustering, event studies)
 
-## Highlights (pinned soon)
+## Highlights 
 - Daily Market Research (reports)  
 - Quant Research Notebooks (code + charts)
 
