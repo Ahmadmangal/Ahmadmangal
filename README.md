@@ -1,31 +1,20 @@
-# Hi, I'm Muhammad Ahmad 👋
-Quant Research — Macro • Microstructure • Data
+# Hi, I'm Muhammad Ahmad 👋  
+Independent Market Research — Macro • Microstructure • Cross-Asset  
 
-**Interests:** CPI/PPI/ISM, yield curve, market microstructure, factor models  
-**Tools:** Python (Pandas, NumPy, statsmodels), Git, Markdown
+## Focus Areas  
+- Macro & Policy: Central banks, inflation, growth signals  
+- Market Microstructure: Order flow, liquidity, options positioning  
+- Cross-Asset Views: Bonds, equities, FX, and commodities  
 
-## Current Focus
-- 90-day **Daily Market Research** project
-- Quant notebooks (yield curve PCA, volatility clustering, event studies)
+## Highlights  
+- Daily & Weekly Market Research reports  
+- Analysis of global policy shifts and market sentiment  
+- Event-driven insights (Fed/ECB speeches, inflation prints, risk events)  
 
-## Highlights 
-- Daily Market Research (reports)  
-- Quant Research Notebooks (code + charts)
-
-## Contact
-gzgzgzgzgz01@gmail.com
+## Contact  
+📩 gzgzgzgzgz01@gmail.com  
 
 <!--
 **Ahmadmangal/Ahmadmangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
