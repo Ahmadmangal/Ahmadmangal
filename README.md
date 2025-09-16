@@ -14,5 +14,5 @@ I study how macroeconomic factors, policy shifts, and market structure shape glo
 - **Weekly Reports** → Bigger-picture narratives across assets.  
 - **Special Notes** → Deep dives into concepts (macro cycles, microstructure, cross-asset flows).  
 
-### 🌍 Goal
+###  Goal
 To build a transparent research archive, showing both raw market thinking and polished reports — useful for learning, reference, and professional growth.
