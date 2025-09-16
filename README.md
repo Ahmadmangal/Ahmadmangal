@@ -1,20 +1,18 @@
 # Hi, I'm Muhammad Ahmad 👋  
-Independent Market Research — Macro • Microstructure • Cross-Asset  
 
-## Focus Areas  
-- Macro & Policy: Central banks, inflation, growth signals  
-- Market Microstructure: Order flow, liquidity, options positioning  
-- Cross-Asset Views: Bonds, equities, FX, and commodities  
+Independent Market Researcher — specializing in **Macro Policy, Market Microstructure, and Cross-Asset Analysis**.  
 
-## Highlights  
-- Daily & Weekly Market Research reports  
-- Analysis of global policy shifts and market sentiment  
-- Event-driven insights (Fed/ECB speeches, inflation prints, risk events)  
+I study how macroeconomic factors, policy shifts, and market structure shape global asset prices (equities, bonds, FX, commodities, crypto).  
 
-## Contact  
-📩 gzgzgzgzgz01@gmail.com  
+###  My Research Process
+- I collect raw insights from economic data, market price action, and news flow.  
+- I refine wording, structure, and presentation with digital tools (for clarity & readability).  
+- Final reports combine **independent analysis + transparent refinement**.  
 
-<!--
-**Ahmadmangal/Ahmadmangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+###  What You’ll Find Here
+- **Daily Reports** → Market moves & macro drivers (short-term focus).  
+- **Weekly Reports** → Bigger-picture narratives across assets.  
+- **Special Notes** → Deep dives into concepts (macro cycles, microstructure, cross-asset flows).  
 
+### 🌍 Goal
+To build a transparent research archive, showing both raw market thinking and polished reports — useful for learning, reference, and professional growth.
